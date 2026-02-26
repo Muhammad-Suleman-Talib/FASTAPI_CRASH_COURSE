@@ -1,0 +1,32 @@
+# ✅ Virtual Environment
+.venv/
+venv/
+env/
+
+# ✅ Python cache
+__pycache__/
+*.pyc
+
+# ✅ Environment variables
+.env
+
+# ✅ IDE
+.vscode/
+.idea/
+
+# ✅ Logs
+*.log
+
+# ✅ Database
+*.sqlite3
+*.db
+
+# ✅ Alembic
+alembic/versions/
+
+# ✅ Test cache
+.pytest_cache/
+.coverage
+
+# ✅ OS files
+.DS_Store
