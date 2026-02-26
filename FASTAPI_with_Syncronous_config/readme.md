@@ -1,4 +1,4 @@
-# Project Title >::  fastapi with syncronous setting with the sqlalchemy or alembic migration 
+<!-- # Project Title >::  fastapi with syncronous setting with the sqlalchemy or alembic migration 
 # 1. first we do to activate the virtual environment 
 ## 2 .second we install the fastapi using this command **_fastapi[standard]_**
 ## 3. than create the **.gitignore_file and add the files which we not share**
@@ -68,7 +68,7 @@
 # user = session.scalars(stmt).one_or_none()
 # return user
 
-# HOW TO MAKE THE UPDATE FUNCTION TO UPDATE THE DATA OF THE USER 
+# HOW TO MAKE THE UPDATE FUNCTION TO UPDATE THE DATA OF THE USER  -->
 
 # # 🚀 FastAPI + Synchronous SQLAlchemy + Alembic — Complete Beginner Guide
 
