@@ -1,0 +1,35 @@
+# virtual environment 
+.venv/
+
+# python catche
+
+__pycache__/
+
+# environment
+
+.env  
+
+# .vs_code
+
+.vs_code
+
+# .logs
+
+*.logs
+
+# database
+
+*.sqlite3
+*db
+
+# alembic version 
+
+alembic/versions/
+
+# os files
+
+.DS_Store
+
+
+
+

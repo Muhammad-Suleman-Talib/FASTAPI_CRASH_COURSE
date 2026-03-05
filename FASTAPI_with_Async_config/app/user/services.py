@@ -37,7 +37,10 @@ async def update_user_name_email(user_id:int,new_name:str|None=None,new_email:st
         if new_email is not None:
             user.email = new_email
         await session.commit()
-        return user    
+        return user  
+
+
+     
 
 async def delete_user(user_id:int):
     async with Async_session() as session:
