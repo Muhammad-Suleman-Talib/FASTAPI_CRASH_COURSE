@@ -1,0 +1,32 @@
+# virtual environment 
+.venv/
+env/
+.venv/
+
+# python catch 
+__pycache__/
+*__pycache__/
+*.pyc
+
+# IDe 
+
+.vscode/
+.idea/
+\
+# log 
+
+*log
+
+# env files 
+
+.env
+.env.local 
+
+# Database 
+
+*.db
+*.sqlite3
+
+# alembic version 
+
+alembic/versions/
